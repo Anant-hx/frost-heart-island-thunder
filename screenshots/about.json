@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/about",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Vidyanta",
+      "hasCanvas": false,
+      "bodyTextLen": 2107,
+      "bodyTextHash": "7b9ba5ddf66bd07ffc4cefa61c3fa90f4e5badd9ac2bf48de2a474e5962f31b6",
+      "bodyTextPrefix": "Hypothetical company for IIM Rohtak WAC · Section B Group 8. Com",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/about.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Vidyanta",
+      "hasCanvas": false,
+      "bodyTextLen": 1964,
+      "bodyTextHash": "7c4ade8d72d5c58896a5be4ed13b715a9b031c3aac29987e2d2d90c6c38b741d",
+      "bodyTextPrefix": "Hypothetical company for IIM Rohtak WAC · Section B Group 8. Com",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/about-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/about.json"
+}
